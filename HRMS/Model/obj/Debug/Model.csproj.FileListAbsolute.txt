@@ -1,0 +1,16 @@
+D:\HRMS\Model\bin\Debug\Model.dll.config
+D:\HRMS\Model\bin\Debug\Model.dll
+D:\HRMS\Model\bin\Debug\Model.pdb
+D:\HRMS\Model\bin\Debug\EntityFramework.dll
+D:\HRMS\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\HRMS\Model\bin\Debug\EntityFramework.xml
+D:\HRMS\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\HRMS\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\HRMS\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\HRMS\Model\obj\Debug\Model.csproj.CopyComplete
+D:\HRMS\Model\obj\Debug\Model.dll
+D:\HRMS\Model\obj\Debug\Model.pdb
+D:\HRMS\Model\bin\Debug\PagedList.dll
+D:\HRMS\Model\bin\Debug\PagedList.Mvc.dll
+D:\HRMS\Model\bin\Debug\PagedList.xml
+D:\HRMS\Model\bin\Debug\PagedList.Mvc.xml
